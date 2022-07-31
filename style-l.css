@@ -1,0 +1,8 @@
+section#document-section {
+    max-width: 800px;
+    margin: 0 auto; 
+}
+
+#document-content a:link, #document-content a:visited {
+    color:lightslategrey;
+}

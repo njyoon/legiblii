@@ -1,0 +1,8 @@
+div#co_document {
+    max-width: 800px;
+    margin: 0 auto; 
+}
+
+.co_paragraphText a:link, .co_paragraphText a:visited {
+    color:lightslategrey;
+}
